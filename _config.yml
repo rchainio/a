@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: RChain Holding Inc.
 description: Future of Blockchain
+show_downloads: "false"
+google_analytics: [Your Google Analytics tracking ID]
